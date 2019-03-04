@@ -1,0 +1,5 @@
+@include('includes.accelevate.header')
+@include('includes.accelevate.nav')
+@include('includes.accelevate.messages')
+@yield('content')
+@include('includes.accelevate.footer')
